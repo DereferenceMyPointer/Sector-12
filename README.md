@@ -15,6 +15,6 @@ OnKill, OnDamage, OnReceiveDamage, OnHeal, and so on and so forth. Attacks are a
 character's attack method, and the character needs to have access to the attack.
 
 Currently, you can build a basic drill and conveyors going right (which work), you can shoot bullets that invoke OnDamage if they hit something, and you can have items 
-(although almost no items have actually been made, they can currently offer a percent buff to basically every stat a character has).
+(although almost no items have actually been made, they can currently offer a percent buff to basically every stat a character has and *would* have tha ability to subscribe to and invoke character events).
 
 I hope this works.
